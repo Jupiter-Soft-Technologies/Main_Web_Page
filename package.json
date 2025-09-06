@@ -2,7 +2,7 @@
   "name": "jupitorsoft",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jupiter-soft-technologies.github.io/Main_Web_Page/",
+  "homepage": "https://pkn9015.github.io/Main_Web_Page/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
